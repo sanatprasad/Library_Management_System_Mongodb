@@ -1,0 +1,10 @@
+PORT=8080
+NODE_MODE=development
+MONGODB_URL=mongodb+srv://sanatprasadofficial:tg3UtMlr1sgeoz38@cluster0.te5qj9n.mongodb.net/LMS
+
+EMAIL_HOST='smtp.gmail.com'
+EMAIL_PORT=587
+EMAIL_USER='sanat.prasad@teksun.com'
+# EMAIL_PASS='?iklCr0wocH$'
+EMAIL_PASS="zmcfxaaxobzqjfmt"
+EMAIL_FROM='sanat.prasad@teksun.com'
